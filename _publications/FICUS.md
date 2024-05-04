@@ -3,7 +3,7 @@ title: "FICUS"
 collection: publications
 permalink: /publication/files/FICUS_EUSIPCO.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
+date: 2024-03-01
 venue: 'Under Review'
 paperurl: 'http://NewS0ul.github.io/files/FICUS_EUSIPCO.pdf'
 citation: 'Jonathan Lys, LIN Frédéric, et al. (2024). &quot;FICUS: Few-shot Image Classification with Unsupervised Segmentation.&quot; <i>Under review</i>.'
